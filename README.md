@@ -13,6 +13,6 @@ if you want this to work in your server it will require some small changes such 
 - /create-payment
 
 ### How to run
-(Make changes to tokens and ids first ofc)
+###### (Make changes to tokens and ids first ofc)
 - npm install
 - node bot.js
